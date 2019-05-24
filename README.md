@@ -15,4 +15,4 @@ E01_reg_arima.R: multiple linear regression models with arima error components
 
 E01-arima.R : ARIMA & SARIMA methods
 
-I'd like to also give credits to Nicolas Gervais (https://github.com/nicolas-gervais) who has been an important contributor to the R code.
+I'd like to also give credits to Nicolas Gervais (https://github.com/nicolas-gervais) who has been another important contributor to the R code.
